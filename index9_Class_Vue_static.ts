@@ -1,7 +1,7 @@
 // class 类
 
 // class 基础
-// ./index9-html 实现一个基础vue逻辑
+// ./index9-vue 实现一个基础vue逻辑
 
 // class readonly private(只能自己使用) protected(只能子类和自己使用) plublic(默认)
 class Cls1 {

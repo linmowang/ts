@@ -35,7 +35,7 @@ function add10<T, K = number>(a: T, b: K): Array<T | K> {
 add10(1, false);
 add10(false, 1);
 
-// axios使用泛型去定义返回对象 ./index17-html
+// axios使用泛型去定义返回对象 ./index16_axios
 
 // 泛型约束
 function add20<T extends number>(a: T, b: T) {
